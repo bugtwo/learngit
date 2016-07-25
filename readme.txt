@@ -1,2 +1,3 @@
 long long ago, there lived a king.
-git is cool
+he love clothes more than every other thing.
+git is a simple
